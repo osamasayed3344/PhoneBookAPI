@@ -1,0 +1,8 @@
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\bin\Debug\netstandard2.0\Domain.dll
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\bin\Debug\netstandard2.0\Domain.pdb
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb

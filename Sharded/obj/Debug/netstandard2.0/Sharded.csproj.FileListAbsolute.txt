@@ -1,0 +1,9 @@
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\bin\Debug\netstandard2.0\Sharded.deps.json
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\bin\Debug\netstandard2.0\Sharded.dll
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\bin\Debug\netstandard2.0\Sharded.pdb
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\obj\Debug\netstandard2.0\Sharded.csproj.CoreCompileInputs.cache
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\obj\Debug\netstandard2.0\Sharded.AssemblyInfoInputs.cache
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\obj\Debug\netstandard2.0\Sharded.AssemblyInfo.cs
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\obj\Debug\netstandard2.0\Sharded.dll
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhonebookAPI\Sharded\obj\Debug\netstandard2.0\Sharded.pdb
+E:\ملفات سطح المكتب\Back-end projects\asp.net project\PhoneBookAPI\Sharded\obj\Debug\netstandard2.0\Sharded.csprojAssemblyReference.cache
