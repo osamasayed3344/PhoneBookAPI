@@ -1,0 +1,15 @@
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\bin\Debug\net8.0\Serivces.Abstraction.deps.json
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\bin\Debug\net8.0\Serivces.Abstraction.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\bin\Debug\net8.0\Serivces.Abstraction.pdb
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\bin\Debug\net8.0\Sharded.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\bin\Debug\net8.0\Sharded.pdb
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.AssemblyInfo.cs
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.39592742.Up2Date
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\refint\Serivces.Abstraction.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\Serivces.Abstraction.pdb
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Serivces.Abstraction\obj\Debug\net8.0\ref\Serivces.Abstraction.dll

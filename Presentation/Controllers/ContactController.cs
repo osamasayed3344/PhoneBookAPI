@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Sharded.DTOs;
-using Core.Services.Abststrations;
+using Serivces.Abstraction;
+using Sharded.DTO;
 
 namespace Presentation.Controllers
 {
@@ -13,53 +9,38 @@ namespace Presentation.Controllers
     [ApiController]
     public class ContactController : ControllerBase
     {
-        private readonly IContactService contactService;
-
-        public ContactController(IContactService contactService)
-        {
-            this.contactService = contactService;
+        private readonly IContactSerivce _contactSerivce;
+        public ContactController(IContactSerivce contactSerivce){
+            _contactSerivce=contactSerivce;
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ContactDTO>>> Get([FromQuery] ContactRequestDTO contactRequest)
-        {
-            try
-            {
-                return Ok(await contactService.Search(contactRequest));
-            }
-            catch (Exception e)
-            {
+        public async Task<IActionResult> Get([FromQuery]ContactRequestDTO request){
+            try{
+                return Ok(await _contactSerivce.Search(request));
+            }catch(Exception e){
                 return BadRequest(e.Message);
             }
         }
 
         [HttpPost]
-        public ActionResult Post([FromBody]ContactRequestDTO request)
-        {
-            try
-            {
-                contactService.Add(request);
+        public async Task<IActionResult> Post([FromBody] ContactRequestDTO request){
+            try{
+                await _contactSerivce.Add(request);
                 return Created("successfull",request);
-            }
-            catch(Exception e)
-            {
+            }catch(Exception e){
                 return BadRequest(e.Message);
             }
         }
 
         [HttpDelete("{id:int}")]
-        public async Task<ActionResult> Delete(int id)
-        {
-            try
-            {
-                await contactService.Delete(id);
+        public async Task<IActionResult> Delete(int id){
+            try{
+                await _contactSerivce.Delete(id);
                 return NoContent();
-            }
-            catch (Exception e)
-            {
+            }catch(Exception e){
                 return BadRequest(e.Message);
             }
         }
-
     }
 }

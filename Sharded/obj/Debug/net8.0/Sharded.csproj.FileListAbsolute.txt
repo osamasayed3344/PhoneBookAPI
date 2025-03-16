@@ -1,0 +1,11 @@
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\bin\Debug\net8.0\Sharded.deps.json
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\bin\Debug\net8.0\Sharded.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\bin\Debug\net8.0\Sharded.pdb
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\Sharded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\Sharded.AssemblyInfoInputs.cache
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\Sharded.AssemblyInfo.cs
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\Sharded.csproj.CoreCompileInputs.cache
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\Sharded.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\refint\Sharded.dll
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\Sharded.pdb
+C:\Users\Osama\Desktop\testproject\PhoneBookAPI\Sharded\obj\Debug\net8.0\ref\Sharded.dll
